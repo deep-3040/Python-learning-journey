@@ -1,0 +1,33 @@
+# 🧮 Calculator
+
+A simple command-line calculator built in Python.
+
+## Features
+
+- Addition
+- Subtraction
+- Multiplication
+- Division
+- Modulus
+- Handles invalid input
+- Handles division by zero
+
+## Concepts Used
+
+- Variables
+- User Input
+- if-elif-else
+- try-except
+- Arithmetic Operators
+
+## How to Run
+
+```bash
+python calculator.py
+```
+
+## Future Improvements
+
+- Scientific calculator
+- History of calculations
+- GUI version using Tkinter
